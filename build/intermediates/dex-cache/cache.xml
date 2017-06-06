@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Radhika/.android/build-cache/37371f059144b2b6bc380c33da6c3705039e8e55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/Radhika/Desktop/190i_FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da138a7ce4cd03666b79f025e8efe76c3f67caf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Radhika/.android/build-cache/ec4d6918f62b5f81e70d89917b51f8520108861a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/Radhika/Desktop/190i_FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb12cab36b8962b030bc6903601a6b255d74b96c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Radhika/Desktop/190i_FinalProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Radhika/Desktop/190i_FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_494cb03bc5145cb293a88ebb506142341c3ba8f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Radhika/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/Radhika/Desktop/190i_FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_c187b4c745190e23f0d9cc27875adb15e605a0fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Radhika/Desktop/190i_FinalProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ba9d0851545d02934d60b5af930390ec21f3783">
+        <dex dex="/Users/Radhika/Desktop/190i_FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_61e701eb76bca4936402897618c321038652ffd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Radhika/.android/build-cache/fa1b9b797f6bb5503df53253193361ad072b5a6d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4504ae3ec47953f3d0c324dc66996aecfb7fbb5c">
+        <dex dex="/Users/Radhika/Desktop/190i_FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac4cdaed7eb26ea323b088db3a4132077a9b5f5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Radhika/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Radhika/Desktop/190i_FinalProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_91e187b5f74de86cf1db859516e05f43d4b331c7/classes.dex" />
+    </item>
+
+</items>
